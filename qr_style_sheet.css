@@ -1,0 +1,32 @@
+.qr_meta{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	/*background-color: #FCFCFC  #F5F5F5	#DCDCDC ;    */
+	/*border: 1px solid #AAAAAA;*/
+	padding: 5px;
+}
+
+.qr_img{
+	float: left;
+	overflow: hidden;
+}
+
+.visisble_text{
+	vertical-align: middle;
+	font-family: Rubik,"Times New Roman", Times, serif;
+	font-style: italic ;
+	font-weight:300;
+	position: relative;
+	margin-left: 110px;
+}
+
+div.visisble_text p{
+	padding-top: 12px;
+	/*text-decoration: underline;*/
+}
+
+img.qr{
+
+}
+
+ 
